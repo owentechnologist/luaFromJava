@@ -2,7 +2,6 @@ package com.redis.sa.ot.luafromjava;
 
 import org.json.JSONObject;
 import redis.clients.jedis.HostAndPort;
-import redis.clients.jedis.JedisClientConfig;
 import redis.clients.jedis.UnifiedJedis;
 import redis.clients.jedis.json.Path2;
 import redis.clients.jedis.resps.StreamEntry;
